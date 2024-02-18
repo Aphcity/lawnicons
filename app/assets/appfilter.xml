@@ -953,6 +953,7 @@
   <item component="ComponentInfo{cn.com.langeasy.LangEasyLexis/cn.com.langeasy.LangEasyLexis.activity.SplashActivity}" drawable="bubei_danci" name="Bubei Danci" />
   <item component="ComponentInfo{com.danilkinkin.buckwheat/com.danilkinkin.buckwheat.MainActivity}" drawable="buckwheat" name="Buckwheat" />
   <item component="ComponentInfo{hu.webvalto.bkkfutar/hu.bkk.futar.ui.MainActivity}" drawable="budapestgo" name="BudapestGO" />
+  <item component="ComponentInfo{com.netease.buff/com.netease.buff.entry.launcher.icon0}" drawable="buff" name="BUFF" />
   <item component="ComponentInfo{com.netease.buff/com.netease.buff.entry.SplashActivity}" drawable="buff" name="BUFF" />
   <item component="ComponentInfo{org.yoki.android.buienalarm/org.yoki.android.buienalarm.activity.LaunchActivity}" drawable="drops" name="Buienalarm" />
   <item component="ComponentInfo{com.supportware.Buienradar/nl.rtl.buienradar.ui.splash.SplashActivity}" drawable="buienradar" name="Buienradar" />
@@ -3719,6 +3720,7 @@
   <item component="ComponentInfo{org.kde.kdeconnect_tp/org.kde.kdeconnect.UserInterface.MainActivity}" drawable="kde_connect" name="KDE Connect" />
   <item component="ComponentInfo{org.kde.kdeconnect_tp/org.kde.kdeconnect.UserInterface.MaterialActivity}" drawable="kde_connect" name="KDE Connect" />
   <item component="ComponentInfo{com.keenetic.kn/com.ndmsystems.knext.ui.refactored.startScreen.StartScreenActivity}" drawable="keenetic" name="Keenetic" />
+  <item component="ComponentInfo{com.gotokeep.keep/com.gotokeep.keep.splash.SplashActivity}" drawable="keep" name="Keep" />
   <item component="ComponentInfo{com.elasticrock.keepscreenon/com.elasticrock.keepscreenon.MainActivity}" drawable="keep_screen_on" name="Keep Screen On" />
   <item component="ComponentInfo{com.keepa.mobile/com.tns.NativeScriptActivity}" drawable="keepa" name="Keepa" />
   <item component="ComponentInfo{keepass2android.keepass2android/md5f0702f468598c68ce18586502249fb40.KeePass}" drawable="keepass2android" name="Keepass2Android" />
