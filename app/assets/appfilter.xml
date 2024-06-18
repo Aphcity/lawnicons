@@ -11669,7 +11669,7 @@
   <item component="ComponentInfo{com.yodobashi.coupon/com.yodobashi.coupon.activity.YdCouponStartUpActivity}" drawable="yodobashi" name="ヨドバシゴ ~~ Yodobashi" />
   <item component="ComponentInfo{com.leber/com.leber.MainActivity}" drawable="leber" name="リーバー ~~ LEBER" />
   <item component="ComponentInfo{com.One.WoodenLetter/com.One.WoodenLetter.LetterActivity}" drawable="wooden_letter" name="一个木函 ~~ Wooden Letter" />
-  <item component="ComponentInfo{com.nemoleoliu.OnePointThreeAcres/com.nemoleoliu.OnePointThreeAcres.MainActivity}" drawable="1point3acres" name="一亩三分地 ~~ One Point Three Acres" />
+  <item component="ComponentInfo{com.nemoleoliu.OnePointThreeAcres/com.nemoleoliu.OnePointThreeAcres.MainActivity}" drawable="_1point3acres" name="一亩三分地 ~~ One Point Three Acres" />
   <item component="ComponentInfo{cn.com.langeasy.LangEasyLexis/cn.com.langeasy.LangEasyLexis.activity.SplashActivity}" drawable="langeasy" name="不背单词 ~~ LangEasy" />
   <item component="ComponentInfo{cn.gov.tax.its/cn.gov.tax.its.MainActivity}" drawable="income_tax" name="个人所得税 ~~ Income Tax" />
   <item component="ComponentInfo{com.android.bankabc/com.alipay.mobile.quinox.LauncherActivity}" drawable="bank_abc" name="中国农业银行 ~~ Agriculture Bank of China" />
