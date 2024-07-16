@@ -84,7 +84,6 @@ android {
 
     buildFeatures {
         buildConfig = true
-        compose = true
         resValues = true
     }
 
@@ -133,10 +132,9 @@ licensee {
 }
 
 dependencies {
-    val lifecycleVersion = "2.8.2"
+    val lifecycleVersion = "2.8.3"
     val hiltVersion = "2.51.1"
 
-    implementation("androidx.appcompat:appcompat:1.7.0")
     implementation("androidx.core:core-ktx:1.13.1")
     implementation("androidx.activity:activity-compose:1.9.0")
     implementation(platform("androidx.compose:compose-bom:2024.06.00"))
@@ -146,9 +144,9 @@ dependencies {
     debugImplementation("androidx.compose.ui:ui-tooling")
     implementation("androidx.compose.animation:animation")
     implementation("androidx.compose.material:material-icons-core-android:1.6.8")
-    implementation("androidx.compose.material3:material3:1.3.0-beta03")
+    implementation("androidx.compose.material3:material3:1.3.0-beta04")
     implementation("androidx.compose.material3:material3-window-size-class")
-    implementation("androidx.navigation:navigation-compose:2.8.0-beta03")
+    implementation("androidx.navigation:navigation-compose:2.8.0-beta05")
     implementation("androidx.core:core-splashscreen:1.0.1")
     implementation("androidx.lifecycle:lifecycle-runtime-ktx:$lifecycleVersion")
     implementation("androidx.lifecycle:lifecycle-viewmodel-compose:$lifecycleVersion")
@@ -160,8 +158,8 @@ dependencies {
     val retrofitVersion = "2.11.0"
     implementation("com.squareup.retrofit2:retrofit:$retrofitVersion")
     implementation("com.squareup.retrofit2:converter-kotlinx-serialization:$retrofitVersion")
-    implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.7.0")
+    implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.7.1")
     implementation("org.jetbrains.kotlinx:kotlinx-collections-immutable:0.3.7")
 
-    implementation("com.github.nanihadesuka:LazyColumnScrollbar:2.1.0")
+    implementation("com.github.nanihadesuka:LazyColumnScrollbar:2.2.0")
 }
